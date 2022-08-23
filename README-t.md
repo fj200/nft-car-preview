@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution preview](./nft-preview-card-component-main/images/Screenshot (12).png)
+![Solution preview](./nft-preview-card-component-main/images/Screenshot(12).png)
 
 
 
