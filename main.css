@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: outfit;
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
